@@ -1,0 +1,8 @@
+ru\netology\task_8_4\controller\AuthorizationController.class
+ru\netology\task_8_4\Task84Application.class
+ru\netology\task_8_4\model\Authorities.class
+ru\netology\task_8_4\repository\User.class
+ru\netology\task_8_4\exception\InvalidCredentials.class
+ru\netology\task_8_4\repository\UserRepository.class
+ru\netology\task_8_4\service\AuthorizationService.class
+ru\netology\task_8_4\exception\UnauthorizedUser.class
